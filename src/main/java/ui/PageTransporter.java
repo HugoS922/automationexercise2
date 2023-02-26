@@ -5,6 +5,7 @@ import framework.selenium.DriverManager;
 import org.openqa.selenium.WebDriver;
 import ui.web.pages.HomePage;
 import ui.web.pages.LoginPage;
+import ui.web.pages.ProductsPage;
 import utils.LoggerManager;
 
 public class PageTransporter {

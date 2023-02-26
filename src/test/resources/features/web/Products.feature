@@ -1,4 +1,4 @@
-@UI
+@Products @UI
 Feature: Products page
 
   Scenario: A user with a proper role should be able to visit the products page
