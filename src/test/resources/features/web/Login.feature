@@ -1,4 +1,4 @@
-@Login @UI
+@UI
 Feature: Login page
 
   Scenario Outline: A user with a proper role should be able to login Automation Exercise page
